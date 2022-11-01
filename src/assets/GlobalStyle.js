@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: inherit;
   }
   body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Rubik', 'Arial' ,sans-serif;
     margin: 0;
     padding: 0;
   }
