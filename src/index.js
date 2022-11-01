@@ -4,6 +4,7 @@ import { GlobalStyle } from "./assets/GlobalStyle";
 import { ThemeProvider } from "styled-components";
 import { theme } from "./assets/theme";
 import { BrowserRouter } from "react-router-dom";
+import "./assets/fonts.css";
 
 import App from "./App";
 

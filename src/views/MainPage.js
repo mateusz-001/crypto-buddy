@@ -1,5 +1,11 @@
+import Wrapper from "../components/UI/Container";
+
 const MainPage = () => {
-  return <h1>Main Page</h1>;
+  return (
+    <Wrapper>
+      <h1>Main Page</h1>
+    </Wrapper>
+  );
 };
 
 export default MainPage;

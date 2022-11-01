@@ -1,9 +1,9 @@
 export const theme = {
   colors: {
     white: "#FFFFFF",
-    smokegray: "F8F9FA",
+    smokegray: "#F8F9FA",
     black: "#000000",
-    gray1: "B3B3B3",
+    gray1: "#B3B3B3",
     gray2: "#404040",
     gray3: "#282828",
     gray4: "#181818",
@@ -12,8 +12,8 @@ export const theme = {
     green: "#1EFCAE",
     infoblue: "#A2D2FB",
     successgreen: "#7CE38B",
-    red: "FA7970",
-    purple: "CEA5FB",
+    red: "#FA7970",
+    purple: "#CEA5FB",
   },
   fontSize: {
     xxxl: "48px",
@@ -26,7 +26,7 @@ export const theme = {
     xxs: "11px",
   },
   mediaQuery: {
-    mobileL: `(min-width: 400px)`,
+    mobileL: `(min-width: 540px)`,
     tablet: `(min-width: 768px)`,
     laptop: `(min-width: 992px)`,
     desktop: `(min-width: 1200px)`,

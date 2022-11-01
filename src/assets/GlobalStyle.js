@@ -11,5 +11,7 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Rubik', 'Arial' ,sans-serif;
     margin: 0;
     padding: 0;
+    color: ${({ theme }) => theme.colors.smokegray};
+    background-color: ${({ theme }) => theme.colors.gray3};
   }
 `;
