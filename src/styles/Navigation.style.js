@@ -37,12 +37,13 @@ export const LinksContainer = styled.ul`
     flex-basis: auto;
     padding: 0;
     margin: 1rem 0;
+    overflow: visible;
     li {
       margin-bottom: 0;
       text-align: unset;
     }
     &.active {
-      padding: 0;
+      padding: 0 0 0 2rem;
     }
   }
 `;
