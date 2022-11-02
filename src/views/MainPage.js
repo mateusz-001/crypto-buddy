@@ -1,4 +1,4 @@
-import Wrapper from "../components/UI/Container";
+import Wrapper from "../components/UI/Wrapper";
 
 const MainPage = () => {
   return (

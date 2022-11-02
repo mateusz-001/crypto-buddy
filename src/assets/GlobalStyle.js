@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: inherit;
   }
   body {
-    font-family: 'Rubik', 'Arial' ,sans-serif;
+    font-family: 'Open Sans', 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     color: ${({ theme }) => theme.colors.smokegray};
